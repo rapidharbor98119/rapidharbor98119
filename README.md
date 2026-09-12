@@ -1,16 +1,20 @@
-## Hi there 👋
+# rapidharbor98119
 
-<!--
-**rapidharbor98119/rapidharbor98119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a developer who likes building things and figuring stuff out.
 
-Here are some ideas to get you started:
+### About me
+Currently learning and tinkering with web stuff, scripts, and whatever seems interesting at the moment.  
+Still early in the journey — mostly learning by doing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+- Python
+- JavaScript / TypeScript
+- Git & Linux
+- A bit of HTML/CSS when needed
+
+### Projects
+Nothing public yet. Working on a few small things — will drop them here when they're ready.
+
+---
+
+Always open to learning new things.
